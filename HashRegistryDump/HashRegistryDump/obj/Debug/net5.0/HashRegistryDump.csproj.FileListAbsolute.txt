@@ -1,0 +1,16 @@
+D:\tools\HashRegistryDump\HashRegistryDump\bin\Debug\net5.0\HashRegistryDump.exe
+D:\tools\HashRegistryDump\HashRegistryDump\bin\Debug\net5.0\HashRegistryDump.deps.json
+D:\tools\HashRegistryDump\HashRegistryDump\bin\Debug\net5.0\HashRegistryDump.runtimeconfig.json
+D:\tools\HashRegistryDump\HashRegistryDump\bin\Debug\net5.0\HashRegistryDump.runtimeconfig.dev.json
+D:\tools\HashRegistryDump\HashRegistryDump\bin\Debug\net5.0\HashRegistryDump.dll
+D:\tools\HashRegistryDump\HashRegistryDump\bin\Debug\net5.0\ref\HashRegistryDump.dll
+D:\tools\HashRegistryDump\HashRegistryDump\bin\Debug\net5.0\HashRegistryDump.pdb
+D:\tools\HashRegistryDump\HashRegistryDump\obj\Debug\net5.0\HashRegistryDump.csproj.AssemblyReference.cache
+D:\tools\HashRegistryDump\HashRegistryDump\obj\Debug\net5.0\HashRegistryDump.GeneratedMSBuildEditorConfig.editorconfig
+D:\tools\HashRegistryDump\HashRegistryDump\obj\Debug\net5.0\HashRegistryDump.AssemblyInfoInputs.cache
+D:\tools\HashRegistryDump\HashRegistryDump\obj\Debug\net5.0\HashRegistryDump.AssemblyInfo.cs
+D:\tools\HashRegistryDump\HashRegistryDump\obj\Debug\net5.0\HashRegistryDump.csproj.CoreCompileInputs.cache
+D:\tools\HashRegistryDump\HashRegistryDump\obj\Debug\net5.0\HashRegistryDump.dll
+D:\tools\HashRegistryDump\HashRegistryDump\obj\Debug\net5.0\ref\HashRegistryDump.dll
+D:\tools\HashRegistryDump\HashRegistryDump\obj\Debug\net5.0\HashRegistryDump.pdb
+D:\tools\HashRegistryDump\HashRegistryDump\obj\Debug\net5.0\HashRegistryDump.genruntimeconfig.cache
