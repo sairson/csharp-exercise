@@ -1,0 +1,5 @@
+D:\tools\SharpDomainTools\BlastDomainUserPwd\bin\Debug\BlastDomainUserPwd.exe
+D:\tools\SharpDomainTools\BlastDomainUserPwd\bin\Debug\BlastDomainUserPwd.pdb
+D:\tools\SharpDomainTools\BlastDomainUserPwd\obj\Debug\BlastDomainUserPwd.csproj.CoreCompileInputs.cache
+D:\tools\SharpDomainTools\BlastDomainUserPwd\obj\Debug\BlastDomainUserPwd.exe
+D:\tools\SharpDomainTools\BlastDomainUserPwd\obj\Debug\BlastDomainUserPwd.pdb
